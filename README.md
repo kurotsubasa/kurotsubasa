@@ -23,7 +23,7 @@ Software engineer with a proven ability to deliver versatile, effective products
 
 👀 View my portfolio here: [Portfolio](https://kurotsubasa.github.io/)
 
-📝 Check my resume out here: [Resume](drive.google.com)
+<!-- 📝 Check my resume out here: [Resume](drive.google.com) -->
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/yang-hua/)
 
