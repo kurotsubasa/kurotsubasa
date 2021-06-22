@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kurotsubasa&show_icons=true&theme=dark)
 
-Software engineer with a proven ability to deliver versatile, effective products in collaborative settings under strict and often tight time constraints. Developed the application, Fantasy Foragers to create an interactive environment for users to develop and modify their creations to do battle against each other or the ai. Always seeking personal growth, I expanded my coding acumen through a 500+ hour coding Bootcamp focused on Javascript, Ruby, React, and MongoDB. I am now eager to tackle more complex challenges and continue to find ways to build full stack applications to improve the quality of life for the world at large. 
+Software engineer with a proven ability to deliver versatile, effective products in collaborative and independent settings under strict and often tight time constraints. Managed and maintained contracts and agreements with multiple third parties to control costs by communicating with outside vendors to acquire agreements and important documents. Always seeking personal growth, I expanded my coding acumen through a 500+ hour coding Bootcamp focused on Javascript, Ruby, React, and MongoDB.  am now eager to tackle more complex challenges and continue to find ways to build full stack applications to improve the quality of life for the world at large.
 
 👀 View my portfolio here: [Portfolio](https://kurotsubasa.github.io/)
 
